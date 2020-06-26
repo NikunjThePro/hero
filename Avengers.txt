@@ -2,3 +2,5 @@ Iron man
 Captain America
 Black panther
 Hulk
+Black widow
+Dr. strange
